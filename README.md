@@ -1,5 +1,6 @@
 # weMERFISH
 Code for processing whole-embryo MERFISH imaging data written collaboratively by Yinan Wan, Jakob El Kholtei and Bogdan Bintu. 
+
 Corresponding publication: Y. Wan et al ., **Whole-embryo spatial transcriptomics at subcellular resolution from gastrulation to organogenesis** _Science_ 391 , eadt3439 (2026). DOI: 10.1126/science.adt3439
 
 This repo contains the code for 
